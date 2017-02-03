@@ -1,0 +1,10 @@
+Demonstation for usage of MediaInfo Library:
+
+https://mediaarea.net/de/MediaInfo
+
+With java/jna binding from 
+
+https://github.com/UniversalMediaServer/UniversalMediaServer/blob/2d63630d25faafae34f4eaad7f06062647b29d0c/src/main/java/net/pms/dlna/MediaInfo.java
+
+This is purely for demonstration. For redistribution, please refer to the
+two referenced projects.
